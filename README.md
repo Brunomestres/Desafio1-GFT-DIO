@@ -1,6 +1,6 @@
 # Desafio de Projeto - C#
 
-Projeto do
+Projeto baseado no 
 **"Abstraindo um Jogo de RPG Usando Orientação a 
-Objetos com C#"**
+Objetos com C#"** do bootcamp da DIO
 feito em uma aplicação de console.
